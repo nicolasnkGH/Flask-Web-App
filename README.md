@@ -1,2 +1,2 @@
-# Flask Web App
-# Flask-Web-App
+# Note taking Web App using Python and Flask
+
